@@ -1,6 +1,8 @@
 写博客的地方~~
 
 分享一些自己学习过程中的知识和文章
+### JS进阶系列
+1. [实现一个简洁可靠深拷贝函数](https://github.com/zzzmj/duola-blog/issues/12)
 
 ### React系列
 我个人在学习React中其实花了挺长时间的，因为React本身只是一个UI层的框架，周边的生态很多，像Redux学起来就会比React费劲一些
@@ -14,6 +16,7 @@
 5. [Redux的中间件和Store Enhancer](https://github.com/zzzmj/duola-blog/issues/5)
 6. [Redux中的selector和reselect](https://github.com/zzzmj/duola-blog/issues/6)
 7. [React-Router 4 基础](https://github.com/zzzmj/duola-blog/issues/7)
+8. [React 一些高级特性和Hooks](https://github.com/zzzmj/duola-blog/issues/13)
 
 ### Web安全以及后端知识
 1. [从散列表（哈希表）到MD5摘要算法](https://github.com/zzzmj/duola-blog/issues/8)
