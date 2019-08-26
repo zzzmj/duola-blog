@@ -1,9 +1,13 @@
 写博客的地方~~
 
-分享一些自己学习过程中的知识和文章
+分享一些自己学习前端过程中零零星星
+
 ### JS进阶系列
-1. [实现一个简洁可靠深拷贝函数](https://github.com/zzzmj/duola-blog/issues/12)
-2. [从零手写一个Promise](https://github.com/zzzmj/duola-blog/issues/14)
+1. [javascript之执行上下文](https://github.com/zzzmj/duola-blog/issues/16)
+2. [javascript之变量对象](https://github.com/zzzmj/duola-blog/issues/17)
+3. [javascript之作用域链与闭包](https://github.com/zzzmj/duola-blog/issues/18)
+4. [实现一个简洁可靠深拷贝函数](https://github.com/zzzmj/duola-blog/issues/12)
+5. [从零手写一个Promise](https://github.com/zzzmj/duola-blog/issues/14)
 
 ### React系列
 1. [React基础](https://github.com/zzzmj/duola-blog/issues/1)
