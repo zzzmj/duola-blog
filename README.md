@@ -8,6 +8,7 @@
 3. [javascript之作用域链与闭包](https://github.com/zzzmj/duola-blog/issues/18)
 4. [实现一个简洁可靠深拷贝函数](https://github.com/zzzmj/duola-blog/issues/12)
 5. [从零手写一个Promise](https://github.com/zzzmj/duola-blog/issues/14)
+6. [javascript之call, apply, bind的原理和模拟实现](https://github.com/zzzmj/duola-blog/issues/19)
 
 ### React系列
 1. [React基础](https://github.com/zzzmj/duola-blog/issues/1)
