@@ -1,6 +1,8 @@
 写博客的地方~~
 
 分享一些自己学习前端过程中零零星星
+### Node系列
+1. [深入理解Node中的Buffer](https://github.com/zzzmj/duola-blog/issues/20)
 
 ### JS进阶系列
 1. [javascript之执行上下文](https://github.com/zzzmj/duola-blog/issues/16)
