@@ -11,6 +11,9 @@
 4. [实现一个简洁可靠深拷贝函数](https://github.com/zzzmj/duola-blog/issues/12)
 5. [从零手写一个Promise](https://github.com/zzzmj/duola-blog/issues/14)
 6. [javascript之call, apply, bind的原理和模拟实现](https://github.com/zzzmj/duola-blog/issues/19)
+7. [javascript异步编程第一步：iterator和generator](https://github.com/zzzmj/duola-blog/issues/21)
+8. [javascript异步编程第二步：co库](https://github.com/zzzmj/duola-blog/issues/22)
+9. [javascript异步编程第三步：async, await](https://github.com/zzzmj/duola-blog/issues/23)
 
 ### React系列
 1. [React基础](https://github.com/zzzmj/duola-blog/issues/1)
