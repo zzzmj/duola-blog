@@ -1,6 +1,9 @@
 写博客的地方~~
 
 分享一些自己学习前端过程中零零星星
+
+> 已经停止更新，转到语雀了。
+
 ### Node系列
 1. [深入理解Node中的Buffer](https://github.com/zzzmj/duola-blog/issues/20)
 
